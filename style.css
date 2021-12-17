@@ -68,7 +68,7 @@ h4{font-family: 'IBM Plex Sans KR', sans-serif;}
 
 /*package*/
 
-.package .content_01{ flex-direction: column ;position: absolute; top:top: 4880px ;left:10%;  color: #A6B6E0; width: 400px;}
+.package .content_01{ flex-direction: column ;position: absolute; top:4880px; ;left:10%;  color: #A6B6E0; width: 400px;}
 
 .package  .content_01  h2{color: #A6B6E0; }
 
